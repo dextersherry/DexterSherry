@@ -14,7 +14,7 @@
 - 📫 How to reach me: shresthsharma@gmail.com
 - ⚡ Fasinated about Cyber Security and Machine Learning
 - 😄 Pronouns: SHEEESH😂😂
-- ⚡ Fun fact: MCU Ended with Ironman
+- ⚡ Fun fact: Nobody calls me Sherry
 - 🏍️ For me bike ride fix minds
 
 
