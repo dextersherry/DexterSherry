@@ -17,7 +17,6 @@
 - ⚡ Fun fact: Nobody calls me Dexter
 - 🏍️ For me bike ride fix minds
 
-[![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 <br>
 <h3>🛠 Tech Stack </h3>
 
@@ -26,6 +25,9 @@
 - 🔧 &nbsp; Visual Studio code | Inteliij Idea | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator 
 </br>
+  
+<b>hacktober-fest 2022<b>
+[![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
