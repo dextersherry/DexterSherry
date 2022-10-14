@@ -26,7 +26,8 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator 
 </br>
   
-<h3>hacktober-fest 2022<h3>
+<h3>hacktober-fest 2022</h3>
+
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 
 
