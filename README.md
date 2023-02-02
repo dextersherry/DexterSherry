@@ -30,7 +30,7 @@
 
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?hide=ranking,?theme=wtf)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
