@@ -30,7 +30,7 @@
 
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 <!--  ![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?theme=unicorn) -->
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shresthsharma64&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
