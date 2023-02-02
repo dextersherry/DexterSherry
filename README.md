@@ -30,6 +30,7 @@
 
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
 
+![Leetcode Stats](https://leetcard.shresth.sharma/shresthsharma64)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
