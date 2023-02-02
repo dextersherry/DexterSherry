@@ -13,9 +13,10 @@
 - 💬 Ask me anything about front end
 - 📫 How to reach me: shresthsharma@gmail.com
 - ⚡ Fasinated about Cyber Security and Machine Learning
+- 🏍️ For me bike ride fix minds
 <!-- - 😄 Pronouns: SHEEESH😂😂 -->
 <!-- - ⚡ Fun fact: Nobody calls me Dexter -->
-- 🏍️ For me bike ride fix minds
+
 
 <br>
 <h3>🛠 Tech Stack </h3>
