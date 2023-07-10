@@ -22,7 +22,7 @@
 <h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Java | C++ | C  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCss | Reactjs | Markup  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCss | Reactjs | Markup | Nodejs | Mongoose | Express | Ejs 
 - 🔧 &nbsp; Visual Studio code | Inteliij Idea | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator 
 </br>
