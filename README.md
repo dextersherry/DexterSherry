@@ -40,7 +40,9 @@
 &nbsp;<a href="https://www.linkedin.com/in/shresth-sharma/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:shresthsharma64@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
-![](https://leetcard.shresthsharma64.cool/lapor?ext=heatmap)
+![LeetCode Stats]
+https://leetcard.jacoblin.cool/shresthsharma64?theme=dark&font=Actor&ext=heatmap
+
 
 ⭐️ From [dextersherry](https://github.com/dextersherry)
 
