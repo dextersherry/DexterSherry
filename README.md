@@ -30,7 +30,6 @@
 <h3>hacktober-fest 2022</h3>
 
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?theme=unicorn) 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shresthsharma64&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -40,9 +39,15 @@
 &nbsp;<a href="https://www.linkedin.com/in/shresth-sharma/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:shresthsharma64@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
-<h3>Leetcode Stats</h3><br>
 
+<h1>
+ Leetcode Status
+</h1>
+<div align="Center">
+ 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?theme=forest&ext=heatmap) 
 
+</div>
 
 ⭐️ From [dextersherry](https://github.com/dextersherry)
 
