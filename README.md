@@ -30,7 +30,7 @@
 <h3>hacktober-fest 2022</h3>
 
 [![@dexter's Holopin board](https://holopin.me/dexter)](https://holopin.io/@dexter)
-<!--  ![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?theme=unicorn) -->
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/shresthsharma64?theme=unicorn) 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shresthsharma64&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -42,7 +42,6 @@
 </p>
 <h3>Leetcode Stats</h3><br>
 
-<image src=" https://leetcard.jacoblin.cool/shresthsharma64?theme=dark&font=Actor&ext=heatmap">
 
 
 ⭐️ From [dextersherry](https://github.com/dextersherry)
