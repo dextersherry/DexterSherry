@@ -45,7 +45,7 @@
 </h1>
 <div align="Center">
  
- ![Leetcode Stats](https://leetcard.jacoblin.cool/Shresth_Sharma_64?theme=wtf&ext=heatmap) 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/Shresth_Sharma_?theme=wtf&ext=heatmap) 
 
 </div>
 
