@@ -6,10 +6,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
- -🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
+ -🔭 I’m currently working on NodeJs and NEXTjs
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on any front-End development with Reactjs 
-- 🤔 I’m looking for help with APIs
 - 💬 Ask me anything about front end
 - 📫 How to reach me: shresthsharma@gmail.com
 - ⚡ Fasinated about Cyber Security and Machine Learning
